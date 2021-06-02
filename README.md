@@ -5,7 +5,7 @@
 3. 查看使用帮助
    upload.exe -h
    显示如下则成功安装了；
-   ![img.png](.\imgs\img.png)
+   ![img.png](\imgs\img.png)
 4. 参数说明  
    -f 标本文件，必须是 xls 后缀；  
    -s 标本数据在 excel 文件的 sheet 序号；  
